@@ -41,7 +41,7 @@ dependencies:
   # Clean Architecture dependencies
   dartz: ^0.10.1
   injectable: ^2.3.0
-  get_it: ^7.6.4
+  get_it: ^8.2.0
 
 dev_dependencies:
   flutter_test:
